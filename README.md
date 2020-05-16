@@ -11,7 +11,7 @@ Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 * [www.inaturalist.org](https://www.inaturalist.org/home)
 * [hur en forskare utnyttjar medborgarforskning i Natutalist](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
 * [Wikipedia Weekly om kopplingar med iNaturalist](https://twitter.com/WikipediaWeekly/status/1258851809835102208?s=20)
-* Mina tankar om att [alla Naturreservat i Sverige borde finnas som ytor i iNaturlist](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
+* mina tankar om att [alla Naturreservat i Sverige borde finnas som ytor i iNaturlist](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
 * [Wikidata:WikiProject_iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist)
 # Wikidata
 * video [Vad är Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE)
