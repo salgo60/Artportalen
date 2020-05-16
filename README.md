@@ -36,7 +36,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
    * en:Wikipedia https://tools.wmflabs.org/hub/P1939:100034
    * ru:WIkipedia https://tools.wmflabs.org/hub/P1939:100034?lang=ru
    * wildlife-species.canada.ca har egenskap P6019 --> https://tools.wmflabs.org/hub/P1939:100034?property=P6019
-   * skulle det finnas vetenskapliga publikationer om Blå kärrhök så hittas dom med https://tools.wmflabs.org/hub/P1939:100034?site=scholia (verkar visa artspecifik info...)
+   * skulle det finnas vetenskapliga publikationer om Blå kärrhök så hittas dom med https://tools.wmflabs.org/hub/P1939:100034?site=scholia (verkar visa artspecifik info...Scholia [graf men svenska namn](https://tinyurl.com/testtaxa))
 <img src="Scholia.png" alt="drawing" width="500"/>
 
 ### sv:Wikipedia mall Taxonbar
