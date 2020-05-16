@@ -32,4 +32,5 @@ Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
   * projekt WIkimedia Sverige gjort med WIkidata karta
   * [Garnuddens naturreservat](http://minancestry.blogspot.com/2020/05/adding-inaturalist-widget-to-page-for.html) som nu finns i iNaturalist skapat från Öppen data geojson från Naturvårdsverket
   * Naturreservat i Öppen data hos [Södertälje kommun men med fel](http://minancestry.blogspot.com/2020/05/blog-post.html) och **inga samma som**
-* tankar hur vi gör [Öppen data enklare att konsumer med Jupiter Nootebok]()
+* tankar hur vi gör [Öppen data enklare att konsumer med Jupiter Nootebok](https://github.com/salgo60/open-data-examples)
+* [Facebook fråga om Artportalen](https://www.facebook.com/groups/1462252750700734?post_id=2472887336303932&comment_id=2790787334513929&reply_comment_id=2791171431142186)
