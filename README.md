@@ -42,6 +42,14 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
 ### sv:Wikipedia mall Taxonbar
 * har idag en [mall Taxonbar](https://sv.wikipedia.org/wiki/Mall:Taxonbar) se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Taxonbar#Byta_till_att_l%C3%A4nka_artfakta.se)
   * kanske den skulle kunna länka Svalan med P1939  "ID i Svensk taxonomisk databas"
+
+## Exempel Länkröta dyntaxa Taxon <-> sv:Wikidata
+* https://www.dyntaxa.se/Taxon/Info/1001459 links
+  * Wikipedia https://sv.wikipedia.org/wiki/Circus - **fel länk** går till en Förgreningssida
+    * bättre är länk [Kärrhökar](https://sv.wikipedia.org/wiki/K%C3%A4rrh%C3%B6kar)
+    * variant är att lagra Wikidata Q207796 och länka svenska artikeln enligt
+      * [https://www.wikidata.org/wiki/Special:GoToLinkedPage/svwiki/Q207796 Special:GoToLinkedPage/svwiki/Q207796]
+
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
 * [Förvaltningsledare vid SLU Artdatabanken](https://www.slu.se/installningar/personsok/?firstName=&lastName=Coulson&telephoneNumber=&email=&ou=&profile=&location=)
