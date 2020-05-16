@@ -11,6 +11,9 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
   * saknar artikel i [sv:WIkipedia sorterade efter finns ppå flest andra språk](https://w.wiki/QzS)
 <img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
 
+## sv:Wikipedia
+* har idag en mall Svalanrapporter se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Svalanrapporter#Byta_till_att_l%C3%A4nka_artfakta%2Cse)
+  * kanske den skulle kunna länka Svalan med P1939  "ID i Svensk taxonomisk databas"
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
 * [Förvaltningsledare vid SLU Artdatabanken](https://www.slu.se/installningar/personsok/?firstName=&lastName=Coulson&telephoneNumber=&email=&ou=&profile=&location=)
