@@ -1,2 +1,2 @@
 # Artportalen
-Tanken är att se hur vi koppöar ihop Artportalen med Wikidata
+Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
