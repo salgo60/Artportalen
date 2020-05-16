@@ -29,10 +29,10 @@ Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 <img src="nutmeg.gif" alt="drawing" width="500"/>
 
 # Misc
-* [Repository jag skapat om Open Data - Jupyter notebook](https://github.com/salgo60/Wikidata-2020---Linked-data-Sweden)
+* [Repository jag skapat om Open Data - Jupyter notebook](https://github.com/salgo60/open-data-examples)
 * [blogpost om WDPA](http://minancestry.blogspot.com/2020/05/wdpa-property.html) i Wikidata
 * Naturreservat
-  * projekt WIkimedia Sverige gjort med Wikidata karta
+  * projekt Wikimedia Sverige gjort med Wikidata karta
   * [Garnuddens naturreservat](http://minancestry.blogspot.com/2020/05/adding-inaturalist-widget-to-page-for.html) som nu finns i iNaturalist skapat från Öppen data geojson från Naturvårdsverket
   * Naturreservat i Öppen data hos [Södertälje kommun men med fel](http://minancestry.blogspot.com/2020/05/blog-post.html) och önskan att dom skapar **samma som** Naturvårdsverket 
 <img src="Södertälje.png" alt="drawing" width="700"/>
