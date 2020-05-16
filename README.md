@@ -13,8 +13,8 @@ Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 * [hur en forskare utnyttjar medborgarforskning i Natutalist](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
 * [Wikipedia Weekly om kopplingar med iNaturalist](https://twitter.com/WikipediaWeekly/status/1258851809835102208?s=20)
 * mina tankar om att [alla Naturreservat i Sverige borde finnas som ytor i iNaturalist](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
-* [Wikidata:WikiProject_iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist) 
-  * [Wikidata:WikiProject_Taxonomy](https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy)
+* [Wikidata:WikiProject iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist) 
+  * [Wikidata:WikiProject Taxonomy](https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy)
 * [iNaturalist have reached 1000 000 observers](https://www.inaturalist.org/blog/35758-we-ve-reached-1-000-000-observers)
 * [hur svenska Garnuddens naturreservat finns i iNaturalist](https://youtu.be/8u0orZtJWYY?t=4319) skapat via Naturvårdsverkets data
 # Wikidata
