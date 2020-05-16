@@ -10,7 +10,7 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
   * andra externa egenskaper [kopplade på samma objekt som Dyntaxa i WIkidata](https://w.wiki/QzN) som [bubblechart](https://w.wiki/QzQ)
   * saknar artikel i [sv:WIkipedia sorterade efter finns ppå flest andra språk](https://w.wiki/QzS)
 <img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
-
+* artiklar som har [Mall svalanrapportert](https://sv.wikipedia.org/wiki/Special:L%C3%A4nkar_hit/Mall:Svalanrapporter)
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
 * [Förvaltningsledare vid SLU Artdatabanken](https://www.slu.se/installningar/personsok/?firstName=&lastName=Coulson&telephoneNumber=&email=&ou=&profile=&location=)
@@ -46,7 +46,6 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
   * [Garnuddens naturreservat](http://minancestry.blogspot.com/2020/05/adding-inaturalist-widget-to-page-for.html) som nu finns i iNaturalist skapat från Öppen data geojson från Naturvårdsverket
   * Naturreservat i Öppen data hos [Södertälje kommun men med fel](http://minancestry.blogspot.com/2020/05/blog-post.html) och önskan att dom skapar **samma som** Naturvårdsverket 
 <img src="Södertälje.png" alt="drawing" width="700"/>
-**inga samma som**
 * tankar hur vi gör [Öppen data enklare att konsumer med Jupiter Nootebok](https://github.com/salgo60/open-data-examples)
 * [Facebook fråga om Artportalen](https://www.facebook.com/groups/1462252750700734?post_id=2472887336303932&comment_id=2790787334513929&reply_comment_id=2791171431142186)
 
