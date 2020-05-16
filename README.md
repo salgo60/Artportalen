@@ -48,7 +48,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
   * Wikipedia https://sv.wikipedia.org/wiki/Circus - **fel länk** går till en Förgreningssida
     * bättre är länk [Kärrhökar](https://sv.wikipedia.org/wiki/K%C3%A4rrh%C3%B6kar)
     * variant är att lagra Wikidata Q207796 och länka svenska artikeln enligt
-      * [https://www.wikidata.org/wiki/Special:GoToLinkedPage/svwiki/Q207796 Special:GoToLinkedPage/svwiki/Q207796]
+      * [https://www.wikidata.org/wiki/Special%3AGoToLinkedPage/svwiki/Q207796 Special:GoToLinkedPage/svwiki/Q207796]
 
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
