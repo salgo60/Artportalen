@@ -29,6 +29,7 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
     * Nordiska mikroalger (SMHI)
     * Wikipedia
     * Google 
+    
 Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och vill till Artportalen jmf
 *  Dyntaxa-ID --> egenskap P1939  --> svenska Wikipedia artikeln för Blå kärrhök 100034 = 
    * sv:WIkipedia https://tools.wmflabs.org/hub/P1939:100034?lang=sv
