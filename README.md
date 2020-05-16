@@ -1,4 +1,4 @@
-# Artportalen
+# Artportalen Wikidata
 Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 
 # Länkar
