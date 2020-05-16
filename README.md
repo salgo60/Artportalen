@@ -10,7 +10,7 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
   * andra externa egenskaper [kopplade på samma objekt som Dyntaxa i WIkidata](https://w.wiki/QzN) som [bubblechart](https://w.wiki/QzQ)
   * saknar artikel i [sv:WIkipedia sorterade efter finns ppå flest andra språk](https://w.wiki/QzS)
 <img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
-* artiklar som har [Mall svalanrapportert](https://sv.wikipedia.org/wiki/Special:L%C3%A4nkar_hit/Mall:Svalanrapporter)
+* artiklar som har [Mall svalanrapportert](https://sv.wikipedia.org/wiki/Special:Länkar_hit/Mall:Svalanrapporter)
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
 * [Förvaltningsledare vid SLU Artdatabanken](https://www.slu.se/installningar/personsok/?firstName=&lastName=Coulson&telephoneNumber=&email=&ou=&profile=&location=)
