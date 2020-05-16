@@ -31,7 +31,7 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
     * Google 
     
 Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och vill till Artportalen jmf
-*  Dyntaxa-ID --> egenskap P1939  --> svenska Wikipedia artikeln för Blå kärrhök 100034 = 
+*  Dyntaxa-ID **100034** --> egenskap P1939  --> svenska Wikipedia artikeln för Blå kärrhök hittas med bara **100034** = 
    * sv:WIkipedia https://tools.wmflabs.org/hub/P1939:100034?lang=sv
    * en:Wikipedia https://tools.wmflabs.org/hub/P1939:100034
    * ru:WIkipedia https://tools.wmflabs.org/hub/P1939:100034?lang=ru
