@@ -12,7 +12,33 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
 <img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
 
 ## sv:Wikipedia
-* har idag en mall Svalanrapporter se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Svalanrapporter#Byta_till_att_l%C3%A4nka_artfakta%2Cse)
+### mall Svalanrapporter länkar artdatabankens obsar
+* [mall Svalanrapporter](https://sv.wikipedia.org/wiki/Mall:Svalanrapporter) borde inte denna mall kunna länka artportalen mha Dyntaxa-ID Wikidata P1939 --> kollar man på Art: Circus cyaneus - blå kärrhök
+  * sv:Wikipedia [Blå kärrhök](https://sv.wikipedia.org/wiki/Blå_kärrhök)
+  * Wikidata  [Q25572](https://www.wikidata.org/wiki/Q25572?uselang=sv)
+  * Dynatax [taxon/info/100034](https://www.dyntaxa.se/taxon/info/100034) så vet den om 
+    * Artfakta (ArtDatabanken)
+    * Bilder (Artportalen)
+    * Främmande arter (NOBANIS)
+    * Svensk Kulturväxtdatabas (SKUD)
+    * Naturforskaren (NRM)
+    * Encyclopedia of Life
+    * Biodiversity Heritage Library
+    * PESI (europeisk taxonomi)
+    * WoRMS (marin taxonomi)
+    * Nordiska mikroalger (SMHI)
+    * Wikipedia
+    * Google 
+Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och vill till Artportalen jmf
+*  Dyntaxa-ID --> egenskap P1939  --> svenska Wikipedia artikeln för Blå kärrhök 100034 = 
+   * sv:WIkipedia https://tools.wmflabs.org/hub/P1939:100034?lang=sv
+   * en:Wikipedia https://tools.wmflabs.org/hub/P1939:100034
+   * ru:WIkipedia https://tools.wmflabs.org/hub/P1939:100034?lang=ru
+   * wildlife-species.canada.ca har egenskap P6019 --> https://tools.wmflabs.org/hub/P1939:100034?property=P6019
+   * skulle det finnas vetenskapliga publikationer om Blå kärrhök så hittas dom med https://tools.wmflabs.org/hub/P1939:100034?site=scholia (verkar visa artspecifik info...)
+<img src="Scholia.png" alt="drawing" width="500"/>
+### Taxonbar
+* har idag en [mall Taxonbar](https://sv.wikipedia.org/wiki/Mall:Taxonbar) se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Taxonbar#Byta_till_att_l%C3%A4nka_artfakta.se)
   * kanske den skulle kunna länka Svalan med P1939  "ID i Svensk taxonomisk databas"
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
