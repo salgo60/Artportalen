@@ -8,7 +8,7 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
 * Listor
   * egenskaper med P1939 [som har flest andra egenskaper i Wikidata](https://w.wiki/QzL) 
   * andra externa egenskaper [kopplade på samma objekt som Dyntaxa i WIkidata](https://w.wiki/QzN) som [bubblechart](https://w.wiki/QzQ)
-  * saknar artikel i [sv:WIkipedia sorterade efter finns ppå flest andra språk](https://w.wiki/QzS)
+  * saknar artikel i [sv:Wikipedia sorterade efter flest artiklar på andra språk](https://w.wiki/QzS)
 <img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
 
 ## sv:Wikipedia
