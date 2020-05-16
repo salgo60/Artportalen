@@ -1,13 +1,13 @@
 # Artportalen Wikidata
 Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 
-# Dyntaxa-ID WIkidata P1939
+# Dyntaxa-ID Wikidata P1939
 Finns en egenskap i Wikidata
 * [Kopplad 84 000 ggr](https://www.wikidata.org/wiki/Property_talk:P1939)
 * Listor
   * egenskaper med P1939 [som har flest egenskaper i Wikidata](https://w.wiki/QzL) 
   * andra externa egenskaper [kopplade på samma objekt som Dyntaxa i WIkidata](https://w.wiki/QzN) som [bubblechart](https://w.wiki/QzQ)
-<img src="DyntaxaIDBubble" alt="drawing" width="500"/>
+<img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
 
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
