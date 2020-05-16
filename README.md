@@ -71,6 +71,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
 # Wikidata
 * video [Vad är Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE)
   * [Föredrag jag höll om Wikidata på Länkade data i Sverige - webbinarium maj 2020](https://youtu.be/8u0orZtJWYY?t=3794)
+    * [repository](https://github.com/salgo60/Wikidata-2020---Linked-data-Sweden)
 * Wikidata egenskaper 
   * finns > [7000 egenskaper](http://w.wiki/DYS) 
   * finns > [5000 externa kopplingar](https://w.wiki/DYQ)
