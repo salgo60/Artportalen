@@ -38,7 +38,8 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
    * wildlife-species.canada.ca har egenskap P6019 --> https://tools.wmflabs.org/hub/P1939:100034?property=P6019
    * skulle det finnas vetenskapliga publikationer om Blå kärrhök så hittas dom med https://tools.wmflabs.org/hub/P1939:100034?site=scholia (verkar visa artspecifik info...)
 <img src="Scholia.png" alt="drawing" width="500"/>
-### Taxonbar
+
+### sv:Wikipedia mall Taxonbar
 * har idag en [mall Taxonbar](https://sv.wikipedia.org/wiki/Mall:Taxonbar) se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Taxonbar#Byta_till_att_l%C3%A4nka_artfakta.se)
   * kanske den skulle kunna länka Svalan med P1939  "ID i Svensk taxonomisk databas"
 # Länkar
