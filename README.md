@@ -10,14 +10,16 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
   * andra externa egenskaper [kopplade på samma objekt som Dyntaxa i WIkidata](https://w.wiki/QzN) som [bubblechart](https://w.wiki/QzQ)
   * saknar artikel i [sv:WIkipedia sorterade efter finns ppå flest andra språk](https://w.wiki/QzS)
 <img src="DyntaxaIDBubble.png" alt="drawing" width="500"/>
-* artiklar som har [Mall svalanrapportert](https://sv.wikipedia.org/wiki/Special:Länkar_hit/Mall:Svalanrapporter)
+
 # Länkar
 * [artportalen.se About](https://artportalen.se/Home/About)
 * [Förvaltningsledare vid SLU Artdatabanken](https://www.slu.se/installningar/personsok/?firstName=&lastName=Coulson&telephoneNumber=&email=&ou=&profile=&location=)
   * [Stephen Coulson medborgarforskning.se](https://medborgarforskning.se/2018/02/stephen-coulson/)
+
 # Medborgarforskning i Sverige
 * [medborgarforskning.se](https://medborgarforskning.se)
   * [Stephen Coulson medborgarforskning.se](https://medborgarforskning.se/2018/02/stephen-coulson/)
+
 # iNaturalist
 * [www.inaturalist.org](https://www.inaturalist.org/home)
 * [hur en forskare utnyttjar medborgarforskning i Natutalist](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
@@ -34,7 +36,7 @@ Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
   * finns > [7000 egenskaper](http://w.wiki/DYS) 
   * finns > [5000 externa kopplingar](https://w.wiki/DYQ)
   * egenskaper som är [av typ taxa](https://w.wiki/Qz5) > 180 egenskaper
-* Structured data on commons där vi kan i bilden ange person/art... i bild se [video Structured Data on Commons: We're making 50 million audiovisual pieces accessible in all languages](https://www.youtube.com/watch?v=lmWmMIuCJVM) anna [video där jag pratar om det](https://www.youtube.com/watch?v=8u0orZtJWYY&feature=youtu.be&t=4728)  
+* Structured data on commons där vi kan i bilden ange person/art... i bild se [video Structured Data on Commons: We're making 50 million audiovisual pieces accessible in all languages](https://www.youtube.com/watch?v=lmWmMIuCJVM) annan [video där jag pratar om det](https://www.youtube.com/watch?v=8u0orZtJWYY&feature=youtu.be&t=4728)  
 
 <img src="nutmeg.gif" alt="drawing" width="500"/>
 
