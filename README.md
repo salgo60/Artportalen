@@ -68,6 +68,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
   * finns > [5000 externa kopplingar](https://w.wiki/DYQ)
   * egenskaper som är [av typ taxa](https://w.wiki/Qz5) > 180 egenskaper
 * Structured data on commons där vi kan i bilden ange person/art... i bild se [video Structured Data on Commons: We're making 50 million audiovisual pieces accessible in all languages](https://www.youtube.com/watch?v=lmWmMIuCJVM) annan [video där jag pratar om det](https://www.youtube.com/watch?v=8u0orZtJWYY&feature=youtu.be&t=4728)  
+   * nedan bild som visar hur det blir konceptuellt att objekt kopplas till olika delar av bilden och namnet kan visas på olika språk (> 300 språk i Wikidata, lyssna på hur länkade data är magiskt att stödja flera språk [SWIB18 talk by Karen Smith-Yoshimura](https://youtu.be/K0l4fv5uUvg?t=1961)) 
 
 <img src="nutmeg.gif" alt="drawing" width="500"/>
 
