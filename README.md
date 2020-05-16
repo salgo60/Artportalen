@@ -76,7 +76,8 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
 * [Repository jag skapat om Open Data - Jupyter notebook](https://github.com/salgo60/open-data-examples)
 * [blogpost om WDPA](http://minancestry.blogspot.com/2020/05/wdpa-property.html) i Wikidata
 * Naturreservat
-  * projekt Wikimedia Sverige gjort med Wikidata [karta](https://wle2020.kodapan.se/)
+  * projekt [Wikipedia:Projekt_naturreservat](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_naturreservat) 
+  * Wikimedia Sverige skapade en [karta länk](https://wle2020.kodapan.se/) med fri geojson från Naturvårdsverket [wmse-wiki-loves-2020](https://phabricator.wikimedia.org/tag/wmse-wiki-loves-2020/) plus sparade det i [Wikicommons](https://commons.wikimedia.org/wiki/Data:/Sweden/Nature_reserves/2020/Garnudden/2021789.map)
   * [Garnuddens naturreservat](http://minancestry.blogspot.com/2020/05/adding-inaturalist-widget-to-page-for.html) som nu finns i iNaturalist skapat från Öppen data geojson från Naturvårdsverket
   * Naturreservat i Öppen data hos [Södertälje kommun men med fel](http://minancestry.blogspot.com/2020/05/blog-post.html) och önskan att dom skapar **samma som** Naturvårdsverket 
 <img src="Södertälje.png" alt="drawing" width="700"/>
