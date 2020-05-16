@@ -24,12 +24,12 @@ Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
   * finns > [7000 egenskaper](http://w.wiki/DYS) 
   * finns > [5000 externa kopplingar](https://w.wiki/DYQ)
   * egenskaper som är [av typ taxa](https://w.wiki/Qz5) > 180 egenskaper
-* Structured data on commons där vi kan i bilden ange person/art/xxxx se [video vid xxx](https://www.youtube.com/watch?v=8u0orZtJWYY&feature=youtu.be&t=4728)  
+* Structured data on commons där vi kan i bilden ange person/art... i bild se [video Structured Data on Commons: We're making 50 million audiovisual pieces accessible in all languages](https://www.youtube.com/watch?v=lmWmMIuCJVM) anna [video där jag pratar om det](https://www.youtube.com/watch?v=8u0orZtJWYY&feature=youtu.be&t=4728)  
 # Misc
 * [Repository jag skapat om Open Data - Jupyter notebook](https://github.com/salgo60/Wikidata-2020---Linked-data-Sweden)
 * [blogpost om WDPA](http://minancestry.blogspot.com/2020/05/wdpa-property.html) i Wikidata
 * Naturreservat
-  * projekt WIkimedia Sverige gjort med WIkidata karta
+  * projekt WIkimedia Sverige gjort med Wikidata karta
   * [Garnuddens naturreservat](http://minancestry.blogspot.com/2020/05/adding-inaturalist-widget-to-page-for.html) som nu finns i iNaturalist skapat från Öppen data geojson från Naturvårdsverket
   * Naturreservat i Öppen data hos [Södertälje kommun men med fel](http://minancestry.blogspot.com/2020/05/blog-post.html) och **inga samma som**
 * tankar hur vi gör [Öppen data enklare att konsumer med Jupiter Nootebok](https://github.com/salgo60/open-data-examples)
