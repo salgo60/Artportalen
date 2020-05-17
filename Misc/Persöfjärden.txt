@@ -1,0 +1,4 @@
+{{ping|yger|alicia}} det kanske är beskrivet någonstans men vad skall finnas i Wikidata
+* Persöfjärden (Ramsar):  Namn:	Persöfjärden Ramsar-id:	[https://skyddadnatur.naturvardsverket.se/sknat/?ramsarid=28 28] Skyddstyp:	Ramsarområde
+* Persöfjärden (Natura 2000) [SPA]: Områdesnamn: Persöfjärden Områdeskod: [https://skyddadnatur.naturvardsverket.se/sknat/?kod=SE0820738 SE0820738]
+- ~~~~
