@@ -39,9 +39,15 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
    * skulle det finnas vetenskapliga publikationer om Blå kärrhök så hittas dom med https://tools.wmflabs.org/hub/P1939:100034?site=scholia (verkar visa artspecifik info...Scholia [graf men svenska namn](https://tinyurl.com/testtaxa))
 <img src="Scholia.png" alt="drawing" width="500"/>
 
+### Wikidata egenskaper Taxonomi
+<img src="Taxonomiproperties.png" alt="drawing" width="900"/>
+
+* länk [Taxonomy properties](https://www.wikidata.org/wiki/Template:Taxonomy_properties)
+
 ### sv:Wikipedia mall Taxonbar
 * har idag en [mall Taxonbar](https://sv.wikipedia.org/wiki/Mall:Taxonbar) se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Taxonbar#Byta_till_att_l%C3%A4nka_artfakta.se)
   * kanske den skulle kunna länka Svalan med P1939  "ID i Svensk taxonomisk databas"
+
 
 ## Exempel Länkröta dyntaxa Taxon <-> sv:Wikidata
 * https://www.dyntaxa.se/Taxon/Info/1001459 links
