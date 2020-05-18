@@ -43,6 +43,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
 <img src="Taxonomiproperties.png" alt="drawing" width="900"/>
 
 * länk [Taxonomy properties](https://www.wikidata.org/wiki/Template:Taxonomy_properties)
+* [Wikidata:WikiProject_Taxonomy](https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy)
 
 ### sv:Wikipedia mall Taxonbar
 * har idag en [mall Taxonbar](https://sv.wikipedia.org/wiki/Mall:Taxonbar) se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Taxonbar#Byta_till_att_l%C3%A4nka_artfakta.se)
