@@ -1,6 +1,6 @@
 # Artportalen Wikidata
 Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
-* [https://api-portal.artdatabanken.se/ api-portal.artdatabanken.se]
+* [api-portal.artdatabanken.se](https://api-portal.artdatabanken.se/)
 
 # Dyntaxa-ID Wikidata P1939
 Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
