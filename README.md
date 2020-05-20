@@ -2,7 +2,7 @@
 Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 * [api-portal.artdatabanken.se](https://api-portal.artdatabanken.se/)
   * [docs](https://api-portal.artdatabanken.se/docs/services)
-
+  
 # Dyntaxa-ID Wikidata P1939
 Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
 * [Kopplad 84 000 ggr](https://www.wikidata.org/wiki/Property_talk:P1939)
@@ -47,6 +47,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
 
 * länk [Taxonomy properties](https://www.wikidata.org/wiki/Template:Taxonomy_properties)
 * [Wikidata:WikiProject_Taxonomy](https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy)
+  * [WikiProject iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist) förslag byta namn [Biodiversity](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_iNaturalist#Renaming_to_wikiproject_biodiversity)
 
 ### sv:Wikipedia mall Taxonbar
 * har idag en [mall Taxonbar](https://sv.wikipedia.org/wiki/Mall:Taxonbar) se [diskussionsida om hur den länkar](https://sv.wikipedia.org/wiki/Malldiskussion:Taxonbar#Byta_till_att_l%C3%A4nka_artfakta.se)
