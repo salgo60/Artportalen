@@ -2,7 +2,7 @@
 Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
 * [api-portal.artdatabanken.se](https://api-portal.artdatabanken.se/)
   * [docs](https://api-portal.artdatabanken.se/docs/services)
-  
+* [Öppna data och tjänster från SLU](https://www.youtube.com/playlist?list=PLOx9uiykwbE_YXo7wCggbpdMFHwdqMo1U) 
 # Dyntaxa-ID Wikidata P1939
 Finns en egenskap i Wikidata P1939 "ID i Svensk taxonomisk databas"
 * [Kopplad 84 000 ggr](https://www.wikidata.org/wiki/Property_talk:P1939)
