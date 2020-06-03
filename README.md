@@ -1,5 +1,5 @@
 # Artportalen Wikidata
-Tanken är att se hur vi kopplar ihop Artportalen med Wikidata
+Tanken är att se om medborgarforskning kan kopplas ihop med Länkad data. [iNaturalist](https://www.inaturalist.org/) gör det redan idag och iSVerige borde vi kunna koppla ihop Artportalen med Wikidata
 * [api-portal.artdatabanken.se](https://api-portal.artdatabanken.se/)
   * [docs](https://api-portal.artdatabanken.se/docs/services)
 * video [Öppna data och tjänster från SLU](https://www.youtube.com/playlist?list=PLOx9uiykwbE_YXo7wCggbpdMFHwdqMo1U) 
