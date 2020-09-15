@@ -73,7 +73,7 @@ Spontant borde det räcka att vi säger att vi kommer från Wikidata Q25572 och 
 
 # [iNaturalist](#iNaturalist)
 * [www.inaturalist.org](https://www.inaturalist.org/home)
-* [hur en forskare utnyttjar medborgarforskning i Natutalist](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
+* [hur en forskare utnyttjar medborgarforskning iNaturalist](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
 * [Wikipedia Weekly om kopplingar med iNaturalist](https://twitter.com/WikipediaWeekly/status/1258851809835102208?s=20)
 * mina tankar om att [alla Naturreservat i Sverige borde finnas som ytor i iNaturalist](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
 * [Wikidata:WikiProject iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist) 
